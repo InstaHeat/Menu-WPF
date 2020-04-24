@@ -1,0 +1,41 @@
+D:\Sandbox\Train\MEx\MEx\bin\Debug\MEx.exe.config
+D:\Sandbox\Train\MEx\MEx\bin\Debug\MEx.exe
+D:\Sandbox\Train\MEx\MEx\bin\Debug\MEx.pdb
+D:\Sandbox\Train\MEx\MEx\obj\Debug\MainWindow.g.cs
+D:\Sandbox\Train\MEx\MEx\obj\Debug\App.g.cs
+D:\Sandbox\Train\MEx\MEx\obj\Debug\MEx_MarkupCompile.cache
+D:\Sandbox\Train\MEx\MEx\obj\Debug\MEx_MarkupCompile.lref
+D:\Sandbox\Train\MEx\MEx\obj\Debug\MainWindow.baml
+D:\Sandbox\Train\MEx\MEx\obj\Debug\MEx.g.resources
+D:\Sandbox\Train\MEx\MEx\obj\Debug\MEx.Properties.Resources.resources
+D:\Sandbox\Train\MEx\MEx\obj\Debug\MEx.csproj.GenerateResource.cache
+D:\Sandbox\Train\MEx\MEx\obj\Debug\MEx.csproj.CoreCompileInputs.cache
+D:\Sandbox\Train\MEx\MEx\obj\Debug\MEx.exe
+D:\Sandbox\Train\MEx\MEx\obj\Debug\MEx.pdb
+d:\Sandbox\Train\MEx\MEx\obj\Debug\MEx.csprojAssemblyReference.cache
+d:\Sandbox\Train\MEx\MEx\obj\Debug\View\About.g.cs
+d:\Sandbox\Train\MEx\MEx\obj\Debug\View\Home.g.cs
+d:\Sandbox\Train\MEx\MEx\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\Sandbox\Train\MEx\MEx\obj\Debug\View\About.baml
+d:\Sandbox\Train\MEx\MEx\obj\Debug\View\Home.baml
+d:\Sandbox\Menu wpf\MEx\MEx\bin\Debug\MEx.exe.config
+d:\Sandbox\Menu wpf\MEx\MEx\bin\Debug\MEx.exe
+d:\Sandbox\Menu wpf\MEx\MEx\bin\Debug\MEx.pdb
+d:\Sandbox\Menu wpf\MEx\MEx\obj\Debug\MainWindow.g.cs
+d:\Sandbox\Menu wpf\MEx\MEx\obj\Debug\View\About.g.cs
+d:\Sandbox\Menu wpf\MEx\MEx\obj\Debug\View\Home.g.cs
+d:\Sandbox\Menu wpf\MEx\MEx\obj\Debug\App.g.cs
+d:\Sandbox\Menu wpf\MEx\MEx\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\Sandbox\Menu wpf\MEx\MEx\obj\Debug\MEx_MarkupCompile.cache
+d:\Sandbox\Menu wpf\MEx\MEx\obj\Debug\MEx_MarkupCompile.lref
+d:\Sandbox\Menu wpf\MEx\MEx\obj\Debug\MainWindow.baml
+d:\Sandbox\Menu wpf\MEx\MEx\obj\Debug\View\About.baml
+d:\Sandbox\Menu wpf\MEx\MEx\obj\Debug\View\Home.baml
+d:\Sandbox\Menu wpf\MEx\MEx\obj\Debug\MEx.g.resources
+d:\Sandbox\Menu wpf\MEx\MEx\obj\Debug\MEx.Properties.Resources.resources
+d:\Sandbox\Menu wpf\MEx\MEx\obj\Debug\MEx.csproj.GenerateResource.cache
+d:\Sandbox\Menu wpf\MEx\MEx\obj\Debug\MEx.csproj.CoreCompileInputs.cache
+d:\Sandbox\Menu wpf\MEx\MEx\obj\Debug\MEx.exe
+d:\Sandbox\Menu wpf\MEx\MEx\obj\Debug\MEx.pdb
+d:\Sandbox\Menu wpf\MEx\MEx\obj\Debug\View\SomeItem1.g.cs
+d:\Sandbox\Menu wpf\MEx\MEx\obj\Debug\View\SomeItem1.baml
